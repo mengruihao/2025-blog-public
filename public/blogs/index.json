@@ -1,31 +1,5 @@
 [
   {
-    "slug": "ai-canvas-game",
-    "title": "AI 画布与游戏",
-    "tags": [
-      "AI",
-      "游戏"
-    ],
-    "date": "2026-08-19T15:45",
-    "summary": "AI 画布，AI 时代下的 Figma，喜欢",
-    "cover": "/blogs/ai-canvas-game/ef3e8690dd3f6993.webp",
-    "hidden": false,
-    "category": ""
-  },
-  {
-    "slug": "plan-b",
-    "title": "技术规划",
-    "tags": [
-      "Flutter",
-      "Electron"
-    ],
-    "date": "2026-07-17T16:20",
-    "summary": "本想考虑下 Flutter ，盘算后，还是使用 Eletron",
-    "cover": "/blogs/plan-b/9f408b477a8a178c.webp",
-    "hidden": false,
-    "category": ""
-  },
-  {
     "slug": "desktop-note",
     "title": "桌面应用小记",
     "tags": [
@@ -323,16 +297,6 @@
     "cover": "/blogs/wave-ball/86d118420c399cdb.webp",
     "hidden": false,
     "category": "代码实现"
-  },
-  {
-    "slug": "fish-animation",
-    "title": "鱼鱼动画",
-    "tags": [],
-    "date": "2026-01-12T10:43",
-    "summary": "规划草稿",
-    "cover": "https://www.yysuni.com/images/pictures/b346636da687740b.webp",
-    "hidden": true,
-    "category": ""
   },
   {
     "slug": "love-island",
