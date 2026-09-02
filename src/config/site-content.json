@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
+		"title": "RyanMeng",
+		"description": "星期六不太累的个人博客，记录机器人相关开发、探索、笔记。",
+		"username": "RyanMeng"
 	},
 	"theme": {
 		"colorBrand": "#2fcbe7",
@@ -59,7 +59,7 @@
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "mengruihao@stu.sjzu.edu.cn",
 			"label": "",
 			"order": 1
 		}
